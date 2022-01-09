@@ -1,0 +1,15 @@
+Git Commands:
+
+Git init  used to initialize the git repo 
+Git add .  it will all the files which is in the folder 
+Git commit -m “ Message “ 
+Git status  this will provide the status abt the file which u r added 
+Git Logs  this will show the commit history of the file 
+Git add remote origin Server_Repo_URL   used to link any local repo to server for the 1st time 
+Git push -u origin master  used to push the content  from local repo to server repo
+Git clone Server_Repo_URL this will clone the copy of the repo 
+((((Git remote -v   This will view the file which is added remotely 
+Pushing my repository on to the server:
+Git commit -u origin master  linking the upstream origin master branch of my local repo to the master server repo ))))
+
+
